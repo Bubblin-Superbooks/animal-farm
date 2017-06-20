@@ -5,6 +5,7 @@
     "JS": "js",
     "HEAD": "html"
   },
-  "name": "animal-farm",
-  "type": "blank"
+  "name": "Animal Farm",
+  "type": "blank",
+  "book_id": 448
 }
