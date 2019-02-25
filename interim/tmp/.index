@@ -1,12 +1,14 @@
 {
-  "0": "<li><a class = \"page\" href=\"11\"> Chapter I </a> <span class=\"flex\">11</span> </li>",
-  "1": "<li><a class = \"page\" href=\"30\"> Chapter II </a> <span class=\"flex\">30</span> </li>",
-  "2": "<li><a class = \"page\" href=\"49\"> Chapter III </a> <span class=\"flex\">49</span> </li>",
-  "3": "<li><a class = \"page\" href=\"66\"> Chapter IV </a> <span class=\"flex\">66</span> </li>",
-  "4": "<li><a class = \"page\" href=\"79\"> Chapter V </a> <span class=\"flex\">79</span> </li>",
-  "5": "<li><a class = \"page\" href=\"102\"> Chapter VI </a> <span class=\"flex\">102</span> </li>",
-  "6": "<li><a class = \"page\" href=\"123\"> Chapter VII </a> <span class=\"flex\">123</span> </li>",
-  "7": "<li><a class = \"page\" href=\"149\"> Chapter VIII </a> <span class=\"flex\">149</span> </li>",
-  "8": "<li><a class = \"page\" href=\"179\"> Chapter IX </a> <span class=\"flex\">179</span> </li>",
-  "9": "<li><a class = \"page\" href=\"205\"> Chapter X </a> <span class=\"flex\">205</span> </li>"
+  "0": "<li><a class = \"page\" href=\"8\"> George Orwell (pseudonym of Eric Blair) (1903-1950) </a> <span class=\"flex\">8</span> </li>",
+  "1": "<li><a class = \"page\" href=\"9\"> Chapter I </a> <span class=\"flex\">9</span> </li>",
+  "2": "<li><a class = \"page\" href=\"26\"> Chapter II </a> <span class=\"flex\">26</span> </li>",
+  "3": "<li><a class = \"page\" href=\"43\"> Chapter III </a> <span class=\"flex\">43</span> </li>",
+  "4": "<li><a class = \"page\" href=\"58\"> Chapter IV </a> <span class=\"flex\">58</span> </li>",
+  "5": "<li><a class = \"page\" href=\"70\"> Chapter V </a> <span class=\"flex\">70</span> </li>",
+  "6": "<li><a class = \"page\" href=\"91\"> Chapter VI </a> <span class=\"flex\">91</span> </li>",
+  "7": "<li><a class = \"page\" href=\"110\"> Chapter VII </a> <span class=\"flex\">110</span> </li>",
+  "8": "<li><a class = \"page\" href=\"134\"> Chapter VIII </a> <span class=\"flex\">134</span> </li>",
+  "9": "<li><a class = \"page\" href=\"161\"> Chapter IX </a> <span class=\"flex\">161</span> </li>",
+  "10": "<li><a class = \"page\" href=\"185\"> Chapter X </a> <span class=\"flex\">185</span> </li>",
+  "11": "<li><a class = \"page\" href=\"207\"> THE END </a> <span class=\"flex\">207</span> </li>"
 }
